@@ -1,0 +1,14 @@
+.headings{
+  text-align: center;
+}
+img{
+  width: 250px;
+}
+.columns{
+  width: 250px;
+  float: left;
+  margin: 10px;
+  border: 3px solid black;
+  padding: 4px;
+  background-color: #BBDEFB;
+}
